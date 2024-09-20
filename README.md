@@ -1,3 +1,3 @@
 - Senior in high school
 - Self-learning as much as I can
-- Check out my LeetCode ([https://leetcode.com/u/maythieuw7/](here))
+- Check out my LeetCode [https://leetcode.com/u/maythieuw7/]([url](https://leetcode.com/u/maythieuw7/))
