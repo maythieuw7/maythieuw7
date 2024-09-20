@@ -1,2 +1,3 @@
 - Senior in high school
-- Self learning full stack and data science before college
+- Self-learning as much as I can
+- Check out my LeetCode [here]([url](https://leetcode.com/u/maythieuw7/))
