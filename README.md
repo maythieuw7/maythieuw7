@@ -1,3 +1,1 @@
-- self study
-- LeetCode https://leetcode.com/u/maythieuw7/
-- Codecademy https://www.codecademy.com/profiles/maythieuw7
+- self studying mostly DSA on LeetCode
