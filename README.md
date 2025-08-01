@@ -1,1 +1,1 @@
-- self studying mostly DSA on LeetCode
+I studying
